@@ -4,7 +4,7 @@
 🧠 Passionate about tech, innovation & digital problem-solving <br>
 📊 Exploring the link between business strategy & emerging tech <br>
 🎭 Member of the UJ Arts Academy <br>
-📱 I enjoy creating content across various platforms like [TikTok].(https://www.tiktok.com/@realnqobile_?lang=en). and [Instagram].(https://www.instagram.com/realnqobile_/).
+📱 I enjoy creating content across various platforms like [TikTok](https://www.tiktok.com/@realnqobile_?lang=en) and [Instagram](https://www.instagram.com/realnqobile_/).
 
 
 # 💻 Tech Stack:
