@@ -1,6 +1,6 @@
 ## Hi, I am Nqobile ✨
 
-🎓 Final Year BIT student at the University of Johannesburg <br>
+🎓 3rd Year BIT student at the University of Johannesburg <br>
 🧠 Passionate about tech, innovation & digital problem-solving <br>
 📊 Exploring the link between business strategy & emerging tech <br>
 🎭 Member of the UJ Arts Academy <br>
