@@ -4,8 +4,8 @@
 🧠 Passionate about tech, innovation & digital problem-solving <br>
 📊 Exploring the link between business strategy & emerging tech <br>
 🎭 Member of the UJ Arts Academy <br>
-🧡 Newly Appointed UJ Ambassador (2026) <br>
-<!--📱 I enjoy creating content across various platforms like [TikTok](https://www.tiktok.com/@realnqobile_?lang=en) and [Instagram](https://www.instagram.com/realnqobile_/).-->
+<!--🧡 Newly Appointed UJ Ambassador (2026) <br>
+📱 I enjoy creating content across various platforms like [TikTok](https://www.tiktok.com/@realnqobile_?lang=en) and [Instagram](https://www.instagram.com/realnqobile_/).-->
 
 
 
