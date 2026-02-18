@@ -1,10 +1,10 @@
-## Hi, I am Nqobile ✨
+## Hi, I am Nqobile 
 
-🎓 3rd Year BIT student at the University of Johannesburg <br>
-🧠 Passionate about tech, innovation & digital problem-solving <br>
+🎓 BIT student at the University of Johannesburg <br>
 📊 Exploring the link between business strategy & emerging tech <br>
 🎭 Member of the UJ Arts Academy <br>
-<!--🧡 Newly Appointed UJ Ambassador (2026) <br>-->
+🧡 UJ PsyCaD Ambassador <br>
+🌍 U21 Global Citizen 2026
 <!--📱 I enjoy creating content across various platforms like [TikTok](https://www.tiktok.com/@realnqobile_?lang=en) and [Instagram](https://www.instagram.com/realnqobile_/).-->
 
 
