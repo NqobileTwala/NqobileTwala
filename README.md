@@ -1,10 +1,10 @@
 ## Hi, I am Nqobile 
 
-🎓 BIT student at the University of Johannesburg <br>
+🎓 BIT in Applied Information Systems Student @ UJ <br>
 📊 Exploring the link between business strategy & emerging tech <br>
-🧡 UJ PsyCaD Career Services Ambassador <br>
+🧡 UJ PsyCaD Career Services Ambassador ('26) <br>
 🌍 U21 Global Citizen 2026 <br>
-💻 UJ Developer Society Executive
+💻 PR & Social Media Executive @ UJDevSoc
 <!--📱 I enjoy creating content across various platforms like [TikTok](https://www.tiktok.com/@realnqobile_?lang=en) and [Instagram](https://www.instagram.com/realnqobile_/).-->
 
 
