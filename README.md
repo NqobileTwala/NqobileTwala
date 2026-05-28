@@ -1,6 +1,6 @@
 ## Hi, I am Nqobile 
 
-🎓 BIT in Applied Information Systems Student @ UJ <br>
+🎓 Final-Year BIT in Applied Information Systems Student @ UJ <br>
 📊 Exploring the link between business strategy & emerging tech <br>
 🧡 UJ PsyCaD Career Services Ambassador ('26) <br>
 🌍 U21 Global Citizen 2026 <br>
