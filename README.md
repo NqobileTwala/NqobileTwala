@@ -4,14 +4,14 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 🎓 Final-Year BIT in Applied Information Systems Student @ UJ
+- 🎓 Final-Year BIT in Applied Information Systems Student @ University of Johannesburg
 - 📊 Exploring the link between business strategy & emerging tech
 - 🧡 UJ PsyCaD Career Services Ambassador ('26)
 - 🌍 U21 Global Citizen 2026 Alumni
-- 💻 PR & Social Media Executive @ UJDevSoc
+- 💻 PR & Social Media Executive @ UJ Developer Society
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=NqobileTwala&theme=nightowl&hide_border=true&cache_seconds=86400" alt="NqobileTwala's GitHub Streak" width="49%" />
 </p>
