@@ -1,12 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Nqobile Twala</h1>
 <h3 align="center">Final Year Business Information Technology Student🧑🏽‍💻</h3>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=NqobileTwala">
-    <img src="https://komarev.com/ghpvc/?username=NqobileTwala&label=Profile%20views&color=00FFFF&style=flat-square" alt="NqobileTwala's profile views" />
-  </a>
-</p>
-
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
